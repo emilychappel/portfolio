@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: theme("colors.paper");
+  color: theme("colors.ink");
+}
+
+::selection {
+  background-color: #111111;
+  color: #f4f3f0;
+}
+
+@layer utilities {
+  .vertical-label {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+  }
+}

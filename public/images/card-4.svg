@@ -1,0 +1,11 @@
+<svg width="640" height="760" viewBox="0 0 640 760" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="c4" x1="1" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#0e0e0e"/>
+      <stop offset="100%" stop-color="#b4b1ab"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="760" fill="url(#c4)"/>
+  <text x="50%" y="50%" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#f4f3f0" opacity="0.85" letter-spacing="4">CONSULTING</text>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#f4f3f0" opacity="0.6" letter-spacing="2">REPLACE ME</text>
+</svg>
